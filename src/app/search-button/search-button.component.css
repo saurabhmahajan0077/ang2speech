@@ -1,0 +1,9 @@
+.mic-button{
+    border-radius: 80px ;
+    height: 150px;
+    width: 150px;
+}
+
+.mic-button > span{
+    font-size: 49px;
+}
